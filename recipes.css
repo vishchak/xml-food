@@ -1,0 +1,74 @@
+food {
+    display: grid;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+food > title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+food > description {
+    margin-top: 5px;
+    font-size: 16px;
+    color: #555;
+}
+
+food > servings {
+    font-size: 14px;
+    color: #777;
+}
+
+food > cuisine {
+    font-size: 14px;
+    color: #777;
+}
+
+food > cooking_time {
+    font-size: 14px;
+    color: #777;
+}
+
+food > cooking_time > prep_time, food > cooking_time > total {
+    font-size: 14px;
+    color: #777;
+}
+
+food > difficulty {
+    font-size: 14px;
+    color: #777;
+}
+
+food > ingredients {
+    margin-top: 10px;
+}
+
+food > ingredients > ingredient {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #444;
+}
+
+food > ingredients > ingredient > name, food > ingredients > ingredient > quantity {
+    margin: 5px 0;
+}
+
+food > nutrition {
+    margin-top: 15px;
+}
+
+food > nutrition > calories, food > nutrition > protein, food > nutrition > fat, food > nutrition > carbs {
+    font-size: 14px;
+    color: #555;
+}
+
+food > nutrition > fat > total, food > nutrition > fat > saturated {
+    font-size: 14px;
+    color: #555;
+}

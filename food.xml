@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="recipes.css" type="text/css"?>
+<breakfast_menu>
+    <food>
+        <title>Gnocchi</title>
+        <description>Gnocchi is simple to make with just three ingredients: mashed potato, flour, and egg. This recipe
+            is one my family has used for generations.
+        </description>
+        <servings>4</servings>
+        <cuisine>Italian</cuisine>
+        <cooking_time>
+            <prep_time>10 min</prep_time>
+            <total>50 min</total>
+        </cooking_time>
+        <difficulty>easy</difficulty>
+        <ingredients>
+            <ingredient>
+                <name>flour</name>
+                <quantity>2 tbs</quantity>
+            </ingredient>
+            <ingredient>
+                <name>potato</name>
+                <quantity>1 medium</quantity>
+            </ingredient>
+            <ingredient>
+                <name>egg</name>
+                <quantity>2 medium</quantity>
+            </ingredient>
+        </ingredients>
+        <nutrition>
+            <calories>400cal</calories>
+            <protein>10p</protein>
+            <fat>
+                <total>28fat total</total>
+                <saturated>20sat</saturated>
+            </fat>
+            <carbs>49carbs</carbs>
+        </nutrition>
+    </food>
+
+    <food>
+        <title>Edible Cookie Dough</title>
+        <description>This edible cookie dough recipe is egg-free and will satisfy any cravings for chocolate chip
+            cookies without the wait. I have made this with friends before, and they said that they loved the taste. So
+            do I. The leftovers will keep in the freezer for up to 3 months.
+        </description>
+        <servings>8</servings>
+        <cuisine>Universal</cuisine>
+        <cooking_time>
+            <prep_time>15 min</prep_time>
+            <total>15 min</total>
+        </cooking_time>
+        <difficulty>easy</difficulty>
+        <ingredients>
+            <ingredient>
+                <name>flour</name>
+                <quantity>2 tbs</quantity>
+            </ingredient>
+            <ingredient>
+                <name>sugar</name>
+                <quantity>1/4 cup</quantity>
+            </ingredient>
+            <ingredient>
+                <name>butter</name>
+                <quantity>100g</quantity>
+            </ingredient>
+            <ingredient>
+                <name>vanilla</name>
+                <quantity>1/5 cup</quantity>
+            </ingredient>
+            <ingredient>
+                <name>milk</name>
+                <quantity>1 cup</quantity>
+            </ingredient>
+        </ingredients>
+        <nutrition>
+            <calories>300cal</calories>
+            <protein>3p</protein>
+            <fat>
+                <total>20fat total</total>
+                <saturated>19sat</saturated>
+            </fat>
+            <carbs>12carbs</carbs>
+        </nutrition>
+    </food>
+
+    <food>
+        <title>Oven-Fried Pork Chops</title>
+        <description>These oven-fried pork chops are baked in the oven until tender. Learn how long to bake pork chops
+            with this quick, simple, and above all, cheap way to make pork chops. I love it!
+        </description>
+        <servings>4</servings>
+        <cuisine>German</cuisine>
+        <cooking_time>
+            <prep_time>10 min</prep_time>
+            <total>30 min</total>
+        </cooking_time>
+        <difficulty>medium</difficulty>
+        <ingredients>
+            <ingredient>
+                <name>egg</name>
+                <quantity>1</quantity>
+            </ingredient>
+            <ingredient>
+                <name>butter</name>
+                <quantity>2 tbs</quantity>
+            </ingredient>
+            <ingredient>
+                <name>black pepper</name>
+                <quantity>1/4 tsp</quantity>
+            </ingredient>
+            <ingredient>
+                <name>pork chop</name>
+                <quantity>4</quantity>
+            </ingredient>
+        </ingredients>
+        <nutrition>
+            <calories>500cal</calories>
+            <protein>32p</protein>
+            <fat>
+                <total>14fat total</total>
+                <saturated>12sat</saturated>
+            </fat>
+            <carbs>39carbs</carbs>
+        </nutrition>
+    </food>
+</breakfast_menu>
